@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="grid-editor-backend">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/grid-editor-backend.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
